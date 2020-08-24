@@ -4,7 +4,7 @@ JSFuck is an esoteric and educational programming style based on the atomic part
 
 It does not depend on a browser, so you can even run it on Node.js.
 
-Demo: [jsfuck.com](http://www.jsfuck.com)
+Demo: [kamil version of jsfuck.com](https://kamil-kielczewski.github.io/jsfuck/index.html)
 
 By [@aemkei](https://twitter.com/aemkei) and [friends](https://github.com/aemkei/jsfuck/graphs/contributors).
 
